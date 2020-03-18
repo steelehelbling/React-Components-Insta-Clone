@@ -6,8 +6,9 @@ const SearchBar = () => {
   return (
     <div className="search-bar-wrapper">
       <div className="image-wrapper">
-        <i className="fab fa-instagram" />
-      </div>
+        <i className="fab fa-instagram"id = "size" />
+      </div> 
+      <img id ="imgsizer" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png"></img>
       <form className="search-form">
         <input
           type="text"

@@ -29,3 +29,15 @@
 .social {
   width: 50px;
 }
+#size{
+margin-top: 10px;
+  font-size: 2rem;
+  border-right: black solid 1px;
+  padding-right: 20px;
+
+}
+#imgsizer{
+ width: 100px;
+ padding-left: 20px;
+ padding-top: 10px;
+}
